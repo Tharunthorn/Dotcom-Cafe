@@ -28,6 +28,8 @@
 
 We accept PromptPay, KUPay, LinePay, AliPay, and cash. Sorry, no credit cards.
 
+# About Us
+
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
 | Punn Chunwimaleung | Beverages | @Halcyon905 |
