@@ -1,11 +1,16 @@
 # KU Cafe Menu
-[Lunch](#Lunch)
+
+[Breakfast](#Breakfast)|[Lunch](#Lunch)
 
 ## Breakfast
 
-    Item                           Price
-    Fried Grasshoppers (terrible)  -10
-    (use proper Markdown formatting, not literal text like this)
+|Item|Price|
+|:---|-----|
+|EggSaladSandwich|75 Baht|
+|HamCheeseSandwich|90 Baht|
+|TunaSandwich|85 Baht|
+|TunaCheeseSandwich|95 Baht|
+|BLTSandwich|120 Baht|
 
 ## Lunch 
 | Item                             | Price   |
@@ -34,4 +39,5 @@ We accept PromptPay, KUPay, LinePay, AliPay, and cash. Sorry, no credit cards.
 # About Us
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
+| Tharunthorn | Breakfast | @tharunthorn |
 | Choon | Lunch | @chachoonnn |
