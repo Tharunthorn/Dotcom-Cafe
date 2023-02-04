@@ -1,6 +1,6 @@
 # KU Cafe Menu
 
-[Breakfast](#Breakfast) | [Lunch](#Lunch) | [Dinner](#dinner)
+[Breakfast](#Breakfast) | [Lunch](#Lunch) | [Dinner](#dinner) | [Night Food](#night-food)
 
 ## Breakfast
 
@@ -36,6 +36,15 @@
     
 ## Night Food
 
+| Item | Price |
+| ---- | ----- |
+| Buffalo Wings | 125 Baht |
+| French Fries | 70 Baht |
+| Onion Ring | 60 Baht |
+| Mac & Cheese | 110 Baht | 
+| Pork Burger | 150 Baht |
+| Meat Burger | 190 Baht |
+| Fish & Fhips | 140 Baht |
 
 ## Beverages
 
@@ -45,8 +54,13 @@
 
 We accept PromptPay, KUPay, LinePay, AliPay, and cash. Sorry, no credit cards.
 
-| Name      | Role      | Github          |
-|:----------|-----------|-----------------|
+
+# About us
+
+| Name | Role | Github |
+|----|----|------|
 | Tharunthorn | Breakfast | @tharunthorn |
 | Choon | Lunch | @chachoonnn |
 | Phakpoom | Dinner | @phakpoomachalanan |
+| Toung | Night Food | @Npwskp |
+
