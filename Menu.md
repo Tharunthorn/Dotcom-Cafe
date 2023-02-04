@@ -1,6 +1,7 @@
 # KU Cafe Menu
 
-[Breakfast](#Breakfast) | [Lunch](#Lunch) | [Dinner](#dinner) | [Night Food](#night-food)
+
+[Breakfast](#Breakfast) | [Lunch](#Lunch) | [Dinner](#dinner) | [Night Food](#night-food) | [Beverages](#Beverages) |
 
 ## Breakfast
 
@@ -11,6 +12,7 @@
 |TunaSandwich|85 Baht|
 |TunaCheeseSandwich|95 Baht|
 |BLTSandwich|120 Baht|
+
 
 ## Lunch 
 
@@ -48,19 +50,27 @@
 
 ## Beverages
 
+| Item         | Price |
+|--------------|-------|
+| Water        | 20    |
+| Coke         | 30    |
+| Orange juice | 30    |
+| Tea          | 25    |
+| Coffee       | 25    |
+
 
 
 ---
 
 We accept PromptPay, KUPay, LinePay, AliPay, and cash. Sorry, no credit cards.
 
-
 # About us
 
-| Name | Role | Github |
-|----|----|------|
-| Tharunthorn | Breakfast | @tharunthorn |
-| Choon | Lunch | @chachoonnn |
-| Phakpoom | Dinner | @phakpoomachalanan |
-| Toung | Night Food | @Npwskp |
+| Name               | Role       | Github |
+|--------------------|------------|------|
+| Tharunthorn        | Breakfast  | @tharunthorn |
+| Choon              | Lunch      | @chachoonnn |
+| Phakpoom           | Dinner     | @phakpoomachalanan |
+| Toung              | Night Food | @Npwskp |
+| Punn Chunwimaleung | Beverages  | @Halcyon905 |
 
