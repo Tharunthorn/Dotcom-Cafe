@@ -1,6 +1,6 @@
 # KU Cafe Menu
 
-[Breakfast](#Breakfast)|[Lunch](#Lunch)
+[Breakfast](#Breakfast) | [Lunch](#Lunch) | [Dinner](#dinner)
 
 ## Breakfast
 
@@ -13,6 +13,7 @@
 |BLTSandwich|120 Baht|
 
 ## Lunch 
+
 | Item                             | Price   |
 |:---------------------------------|---------|
 | Thai Basil Chicken wit Fried Egg | 70 Baht |
@@ -24,7 +25,15 @@
 
 ## Dinner
 
-
+| Item                     | Price    |
+|:-------------------------|----------|
+| Beef Stir Fried          | 700 Baht |
+| Creaamy Chicken Alfredo  | 360 Baht |
+| Garlic Beef Lo Mein      | 500 Baht |
+| Honey Garlic Shrimp      | 400 Baht |
+| Pesto Pasta              | 240 Baht |
+| Rib Eye Steak            | 800 Baht |
+    
 ## Night Food
 
 
@@ -36,8 +45,8 @@
 
 We accept PromptPay, KUPay, LinePay, AliPay, and cash. Sorry, no credit cards.
 
-# About Us
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
 | Tharunthorn | Breakfast | @tharunthorn |
 | Choon | Lunch | @chachoonnn |
+| Phakpoom | Dinner | @phakpoomachalanan |
