@@ -1,15 +1,27 @@
 # KU Cafe Menu
 
-[Dinner](#dinner)
+[Breakfast](#Breakfast) | [Lunch](#Lunch) | [Dinner](#dinner)
 
 ## Breakfast
 
-    Item                           Price
-    Fried Grasshoppers (terrible)  -10
-    (use proper Markdown formatting, not literal text like this)
+|Item|Price|
+|:---|-----|
+|EggSaladSandwich|75 Baht|
+|HamCheeseSandwich|90 Baht|
+|TunaSandwich|85 Baht|
+|TunaCheeseSandwich|95 Baht|
+|BLTSandwich|120 Baht|
 
 ## Lunch 
 
+| Item                             | Price   |
+|:---------------------------------|---------|
+| Thai Basil Chicken wit Fried Egg | 70 Baht |
+| Egg Fried rice                   | 70 Baht |
+| Fried Chicken over rice          | 75 Baht |
+| Minced pork omelete over rice    | 70 Baht |
+| Steamed rice topped with chicken | 75 Baht |
+| Stewed pork leg on rice          | 65 Baht |
 
 ## Dinner
 
@@ -35,4 +47,6 @@ We accept PromptPay, KUPay, LinePay, AliPay, and cash. Sorry, no credit cards.
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
+| Tharunthorn | Breakfast | @tharunthorn |
+| Choon | Lunch | @chachoonnn |
 | Phakpoom | Dinner | @phakpoomachalanan |
