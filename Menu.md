@@ -1,5 +1,6 @@
 # KU Cafe Menu
 
+[Breakfast](#Breakfast)
 
 ## Breakfast
 
